@@ -15,21 +15,21 @@ const Experience = () => {
               <BsFillPatchCheckFill className='experience__details-icons'/>
               <div>
                 <h4>Java</h4>
-                <small className='text-light'>Experienced</small>
+                <small className='text-light'></small>
               </div>
             </article>
             <article className='experience__details'>
             <BsFillPatchCheckFill className='experience__details-icons'/>
             <div>
             <h4>C++</h4>
-            <small className='text-light'>Basic</small>
+            <small className='text-light'></small>
             </div>
             </article>
             <article className='experience__details'>
             <BsFillPatchCheckFill className='experience__details-icons'/>
             <div>
               <h4>SQL</h4>
-            <small className='text-light'>Experienced</small>
+            <small className='text-light'></small>
             </div>
             </article>
             <article className='experience__details'>
@@ -53,7 +53,7 @@ const Experience = () => {
           <BsFillPatchCheckFill className='experience__details-icons'/>
           <div>
             <h4>Git</h4>
-          <small className='text-light'>Experienced</small>
+          <small className='text-light'>Basic</small>
           </div>
           </article>
           <article className='experience__details'>
@@ -67,7 +67,7 @@ const Experience = () => {
           <BsFillPatchCheckFill className='experience__details-icons'/>
           <div>
           <h4>Android Studio</h4>
-          <small className='text-light'>Experienced</small>
+          <small className='text-light'>Basic</small>
           </div>
           </article>
           <article className='experience__details'>
@@ -116,7 +116,7 @@ const Experience = () => {
               <BsFillPatchCheckFill className='experience__details-icons'/>
               <div>
                 <h4>ReactJS</h4>
-                <small className='text-light'>Experienced</small>
+                <small className='text-light'></small>
               </div>
             </article>
             <article className='experience__details'>
@@ -130,7 +130,7 @@ const Experience = () => {
             <BsFillPatchCheckFill className='experience__details-icons'/>
             <div>
               <h4>Bootstrap</h4>
-            <small className='text-light'>Experienced</small>
+            <small className='text-light'></small>
             </div>
             </article>
             <article className='experience__details'>
